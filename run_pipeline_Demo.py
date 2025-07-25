@@ -1,0 +1,4 @@
+from bisulfite_demo import demonstrate_complete_pipeline
+
+demonstrate_complete_pipeline()
+
